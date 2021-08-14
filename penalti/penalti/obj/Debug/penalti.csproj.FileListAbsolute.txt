@@ -1,0 +1,38 @@
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\bin\Debug\penalti.exe.config
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\bin\Debug\penalti.exe
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\bin\Debug\penalti.pdb
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.csprojAssemblyReference.cache
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.Form1.resources
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.Properties.Resources.resources
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.csproj.GenerateResource.cache
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.csproj.CoreCompileInputs.cache
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.exe
+C:\Users\Asus-\Desktop\c# çalışmalarım\penalti\penalti\obj\Debug\penalti.pdb
+C:\Users\Pau\Desktop\penalti\penalti\bin\Debug\penalti.exe.config
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.exe
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.pdb
+C:\Users\Pau\Desktop\penalti\penalti\bin\Debug\penalti.exe
+C:\Users\Pau\Desktop\penalti\penalti\bin\Debug\penalti.pdb
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.Form1.resources
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.Properties.Resources.resources
+C:\Users\Pau\Desktop\penalti\penalti\obj\Debug\penalti.csproj.GenerateResource.Cache
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\bin\Debug\penalti.exe.config
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.exe
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.pdb
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\bin\Debug\penalti.exe
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\bin\Debug\penalti.pdb
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.csprojResolveAssemblyReference.cache
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.Form1.resources
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.Properties.Resources.resources
+C:\Users\UGUR\Desktop\yedek\penalti\penalti\obj\Debug\penalti.csproj.GenerateResource.Cache
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\bin\Debug\penalti.exe.config
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\bin\Debug\penalti.exe
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\bin\Debug\penalti.pdb
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.csproj.AssemblyReference.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.Form1.resources
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.Properties.Resources.resources
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.csproj.GenerateResource.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.exe
+C:\Users\Muhammed Salih KOÇ\Documents\Ders\Programlama\c#\Projects\penalti\penalti\obj\Debug\penalti.pdb
